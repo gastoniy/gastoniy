@@ -25,4 +25,4 @@ I write ADRs and runbooks alongside the code, not just after something breaks 鈥
 
 ## Elsewhere
 
-馃搷 Wroc艂aw, Poland 路 [LinkedIn](#) 路 [Email](mailto:gastoniyultra@gmail.com)
+馃搷 Wroc艂aw, Poland 路 [LinkedIn](https://www.linkedin.com/in/ihor-fisak-6b629736b/) 路 [Email](mailto:gastoniyultra@gmail.com)
