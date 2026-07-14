@@ -17,6 +17,7 @@ Cybersecurity student targeting **Intern / Junior DevOps Engineer** roles. I lik
 ## Projects worth a look
 
 - **[Port-Knocking-SPA-Mikrotik](https://github.com/gastoniy/Port-Knocking-SPA-Mikrotik)** — Single Packet Authorization server for RouterOS v7, containerized, using NaCl encryption to gate firewall access with no open ports to scan.
+- **[Netcal-api](https://github.com/gastoniy/netcalc-api)** — A deliberately trivial FastAPI subnet/CIDR calculator used as a vehicle for a production-grade supply-chain pipeline: two-stage Chainguard distroless build, hash-pinned wheels, digest-pinned base images, SHA-pinned actions, and a build-once flow where every gate (Trivy, Grype, SBOM, smoke test) runs before the single push — so the cosign-signed, SBOM-attested, SLSA-provenanced image is by construction the exact image that was tested.
 - **[SecureAutoBackUp](https://github.com/gastoniy/SecureAutoBackUp)** — Multithreaded bash backup tool with mount-point awareness, archive integrity checks, and retention policies.
 - **[CIAHP](https://github.com/mikalaytsepl/CIAHP)** — Cluster Infrastructure Automation and Hardening Platform (Ansible, Django, Lynis, Trivy, nftables) — team project, my contributions focus on the hardening and automation layer.
 - **[Flight punctuality analysis (Big Data + Machine Learning)](https://github.com/gastoniy/BigDataAnalizaLotnisk)** — Machine learning pipeline for predicting flight delays at Kraków Airport (KRK), utilizing a custom web scraper and a Random Forest classifier trained on over 7,000 flight records.
